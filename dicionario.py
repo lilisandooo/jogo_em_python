@@ -38,3 +38,5 @@ for t in range(tentativas):
         print(f"Errado! A resposta certa é {dicionario[pergunta]}.")
 
 print(f"Você chegou ao fim do simulado! Você possui {pontos}/{tentativas} respostas corretas.")
+
+# Ideias que podemos considerar adicionar; Uma dica antes do jogador digitar a resposta, um tutorial antes de começar;explicando como o jogo funciona; uma opção no final de jogar novamente; deixar mais decorado os textos e tals.
